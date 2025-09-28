@@ -8,7 +8,7 @@ import '../styles/ProjectCard.css';
 const projects = [
   {
     title: "HOME Gestion de Gastos",
-    description: "Aplicación de escritorio hecha para llebar los gastos del hogar o personales",
+    description: "App de escritorio para gestionar gastos del hogar y personales",
     imgUrl: logoHome,
     github: "https://github.com/tuusuario/proyecto1",
     download: "modal" 
