@@ -17,7 +17,7 @@ import linuxLogo from '../assets/linux.png';
 
 function Skills() {
   return (
-    <section id="skills" style={{ padding: '4rem 0', backgroundColor: '#f0f4f8' }}>
+    <section id="skills" style={{ padding: '4rem 0', backgroundColor: '#2c2c2c',  color: '#f5f5f5' }}>
       <Container>
         <h2 className="text-center mb-4">Áreas de experiencia</h2>
         <Accordion defaultActiveKey="0" flush>

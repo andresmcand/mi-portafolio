@@ -3,9 +3,9 @@ import { Container } from 'react-bootstrap';
 
 function About() {
   return (
-    <section id="about" style={{ padding: '4rem 0', backgroundColor: '#ffffff' }}>
+    <section id="about" style={{ padding: '4rem 0', backgroundColor: '#2c2c2c',  color: '#f5f5f5' }}>
       <Container>
-        <h2>Sobre mí</h2>
+        <h2 >Sobre mí</h2>
         <p>Ingeniero de Sistemas con experiencia en el desarrollo de aplicaciones de escritorio y web, tanto en
           entornos corporativos como en proyectos freelance. Poseo sólidos conocimientos en lógica de
           programación y diseño web, aplicando tecnologías como HTML, CSS y Bootstrap para crear interfaces

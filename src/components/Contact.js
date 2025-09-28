@@ -26,7 +26,7 @@ function Contact() {
   };
 
   return (
-    <section id="contact" style={{ padding: '4rem 0', backgroundColor: '#ede7f6' }}>
+    <section id="contact" style={{ padding: '4rem 0', backgroundColor: '#2c2c2c',  color: '#f5f5f5' }}>
       <Container>
         <h2 className="text-center mb-4">Contáctame</h2>
         <Form ref={form} onSubmit={sendEmail}>
