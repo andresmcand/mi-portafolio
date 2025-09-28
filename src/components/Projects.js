@@ -16,8 +16,8 @@ const projects = [
   },
 
   {
-    title: "Nuevo Proyecto",
-    description: "Descripción del nuevo proyecto que quieras agregar",
+    title: "CompraNet Cloud",
+    description: "Es un sistema que administra las compras de una empresa, es un sistema hibrido diseñado para empresas de pocos recursos, el front es un archivo de excel, los datos son leidos con Python y enviados a la nube para interprtetarlos en grafana",
     imgUrl: logoNuevo,
     github: "https://github.com/tuusuario/proyecto2",
     download: "https://link-descarga.com/app2"
