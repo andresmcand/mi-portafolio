@@ -22,7 +22,7 @@ const projects = [
   },
   {
     title: "Nuevo Proyecto",
-    description: "Descripción del nuevo proyecto que quieras agregar",
+    description: "Descripción del nuevo proyecto",
     imgUrl: logoNuevo2,
     github: "https://github.com/tuusuario/proyecto2",
     download: "modal"
